@@ -1,1 +1,2 @@
-"agency_original.txt "
+agency_id,agency_name,agency_url,agency_timezone
+MID,"MERIDA YUC. MX.",https://transporte.yucatan.gob.mx/,GMT-6
